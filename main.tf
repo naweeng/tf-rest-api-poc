@@ -1,4 +1,5 @@
-provider "restapi" {
+
+provider "app.terraform.io/test-naween/restapi/provider" {
   uri = "https://rest.logentries.com"
   debug = true
   write_returns_object = true
