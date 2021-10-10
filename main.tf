@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 provider "restapi" {
   uri = "https://rest.logentries.com"
   debug = true
