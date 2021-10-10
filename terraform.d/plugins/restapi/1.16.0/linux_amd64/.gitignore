@@ -1,0 +1,14 @@
+main.tf
+.terraform
+terraform-provider-restapi
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+examples/terraform*
+**/github_api_token
+fakeservercli/fakeservercli
+scripts/terraform-provider-restapi*
+scripts/fakeserver*
+tmp
+tmpgpg
+dist
