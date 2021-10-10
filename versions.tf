@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     custom = {
-      source = "my-host/my-namespace/custom"
+      source = "custom"
       version = "1.16.0"
     }
   }
