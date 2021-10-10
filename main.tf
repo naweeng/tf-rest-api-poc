@@ -1,4 +1,4 @@
-provider "restapi" {
+provider "custom" {
   uri = "https://rest.logentries.com"
   debug = true
   write_returns_object = true
